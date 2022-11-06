@@ -1,16 +1,9 @@
 # dmp_car_store
 
-A new Flutter project.
 
-## Getting Started
+![DMP Task](https://user-images.githubusercontent.com/67467495/200168936-86f6691e-6ef3-45b7-947d-f0dcf6518c95.JPG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+--------------------------------------------------------------------------
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you DMP.
